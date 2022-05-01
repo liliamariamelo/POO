@@ -1,2 +1,3 @@
 # POO
-Disciplina Programação Orientada a Objetos
+Estudante do curso tecnológo Sistemas para Internet     
+Disciplina Programação Orientada a Objetos - 3º período
